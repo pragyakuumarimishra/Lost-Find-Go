@@ -1,0 +1,15 @@
+.input {
+  @apply border rounded p-2;
+}
+
+.btn {
+  @apply bg-blue-500 text-white rounded p-2;
+}
+
+.card {
+  @apply border rounded p-4;
+}
+
+.badge {
+  @apply bg-green-500 text-white rounded;
+}
